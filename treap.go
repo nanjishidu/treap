@@ -7,7 +7,8 @@
 
 // The treap package provides a balanced binary tree datastructure, expected
 // to have logarithmic height.
-package treap // import "stathat.com/c/treap"
+package treap 
+// import "stathat.com/c/treap"
 
 import (
 	"math/rand"
